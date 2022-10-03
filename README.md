@@ -21,7 +21,7 @@ I'm living in Rio de Janeiro, Brazil.
 - 📫 [How to reach me on email](mailto:paulavieiradsilva@gmail.com) 
 - 👾 [Paula Vieira](https://www.linkedin.com/in/paula-vieira-a14426168) My linkedin profile 
 - 📸 [@its_paulinhaa](https://instagram.com/its_paulinhaa)  My instagram
-- 🎪 [My datacamp profile](https://www.datacamp.com/profile/paulavieiradsilva)
+- 🎪 [My datacamp profile](https://app.datacamp.com/profile/paulinhavieira)
 
 #### *Thanks for reading, keep with this cute puppies* 😍
 
