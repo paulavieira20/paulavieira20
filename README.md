@@ -13,7 +13,9 @@ I'm living in Rio de Janeiro, Brazil.
 #### ⚡ Fun fact: Zero is not represented in Roman numerals.
 
 ## Skills
-- 👨‍💻 Python, Java, C, C#
+- 👨‍💻 Python, NumPy, Pandas
+- ☕ Java
+- ⌨️ C, C#
 - 🎨 HTML, CSS
 
 
